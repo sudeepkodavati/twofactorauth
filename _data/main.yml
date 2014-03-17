@@ -312,7 +312,7 @@ sections:
         - name: GoDaddy
           img: godaddy.png
           url: http://www.godaddy.com/
-          tfa: yes
+          tfa: Yes
           sms: Yes
           doc: http://support.godaddy.com/help/article/7502/enabling-twostep-authentication
 
